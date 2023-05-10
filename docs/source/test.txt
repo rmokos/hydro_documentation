@@ -1,2 +1,4 @@
 This is a raw text file.
 
+
+This is line 4
